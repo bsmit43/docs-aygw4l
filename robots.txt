@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-eu9afp.kujang138gold.site/sitemap.xml
